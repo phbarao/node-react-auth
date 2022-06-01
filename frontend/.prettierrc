@@ -1,0 +1,5 @@
+{
+  "singleQuote": true,
+  "trilingComma": "all",
+  "allowParens": "avoid"
+}
